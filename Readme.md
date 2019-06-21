@@ -7,6 +7,9 @@
 * [TypedListDataBindingPartial.cshtml](./CS/Views/Home/TypedListDataBindingPartial.cshtml)
 <!-- default file list end -->
 # GridView - How to implement export from an embedded Context menu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t150435)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to add items that allow you to export a GridView to a grid's embedded Context menu. </p>

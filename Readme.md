@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # GridView - How to implement export from an embedded Context menu
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t150435)**
+**[[Run Online]](https://codecentral.devexpress.com/t150435/)**
 <!-- run online end -->
 
 

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Web;
 using System.Web.Mvc;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using DevExpress.Web.Mvc;
 using Export.Models;
 

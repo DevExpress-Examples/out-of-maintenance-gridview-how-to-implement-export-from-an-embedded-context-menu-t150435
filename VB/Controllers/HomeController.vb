@@ -2,7 +2,7 @@
 Imports System.Collections.Generic
 Imports System.Web
 Imports System.Web.Mvc
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports DevExpress.Web.Mvc
 Imports Export.Models
 
